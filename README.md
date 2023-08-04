@@ -1,2 +1,3 @@
 # terminator
-Optimized configuration for Terminator terminal emulator
+Configuração otimizada para o emulador de terminal Terminator.
+
